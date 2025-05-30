@@ -1,4 +1,4 @@
 # About me
 
-- 🔭 I’m currently working on embodied ai
-- 🌱 I’m currently learning ml and ros2
+- 🔭 I’m currently interested in embodied ai
+- 🌱 I’m currently learning dl, rl and ros2
