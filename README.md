@@ -1,3 +1,3 @@
 # About me
 
-Research interests：EAI🤖, MLLM, VLA
+Research interests：Social Navigation, World Model
